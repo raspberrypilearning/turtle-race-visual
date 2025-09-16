@@ -1,40 +1,39 @@
-## What you will make
+## Introduction
 
-A brief description - one or two sentences. 
+Use loops to draw a race track and create a racing turtle game.
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+### What you will make
 
---- no-print ---
+This project introduces `for` loops through a fun turtle race game. 
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+Loops are used to draw the race track and to make the turtles move a random number of steps each turn. 
 
---- /no-print ---
+If you have a group of people to play the game, each person can pick a turtle and the one that gets the furthest is the winner.
 
---- no-print ---
-Video embed
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/turtle-race-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
+--- collapse ---
+---
+title: What you will learn
+---
+### What you will learn
 
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+By making your turtle race game, you will learn how to:
 
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
---- /no-print ---
+--- /collapse ---
 
-### You will need:
-- a
-- b
-- c
+--- collapse ---
+---
+title: Additional information for educators
+---
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+--- /collapse ---
