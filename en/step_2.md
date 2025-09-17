@@ -11,6 +11,8 @@
 </iframe>
 </div>
 
+--- /no-print ---
+
 --- task ---
 
 Open the [Turtle race starter](https://editor.raspberrypi.org/en/projects/turtle-race-starter){:target="_blank"} project.
