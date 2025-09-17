@@ -1,19 +1,26 @@
-title: default-project-template
-hero_image: images/banner.png
-description: default-project-template description
-version: 1
+---
+hero_image: images/turtle-race.png
+theme: blue
+duration: 2
 listed: false
+ingredient: false
 copyedit: false
-last_tested: "2025-01-01"
+title: Turtle Race!
+description: Race turtles against each other!
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Next step title
-    completion:
-      - internal
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: Introduction
+- title: Add turtles
+  completion:
+  - engaged
+- title: Add a track
+- title: Race the turtles
+  completion:
+  - internal
+  - external
