@@ -1,7 +1,8 @@
 ## Race the turtles
+
 --- task ---
 
-In another `for` loop, make the first turtle move forwards a random distance, 100 times.
+Make the first turtle move forward a random distance, 100 times.
 
 --- code ---
 ---
@@ -19,7 +20,7 @@ for turn in range(100):
 
 --- task ---
 
-Now make the other turtles race with the first turtle.
+Now add the other turtles to the race.
 
 --- code ---
 ---
@@ -42,6 +43,6 @@ for turn in range(100):
 
 --- task ---
 
-You can change the distance moved (`randint(1, 5)`) and the number of times moved (`range(100)`) to see what effect that has on the race.
+Try changing the numbers in `randint(1, 5)` and `range(100)` to see what happens.
 
 --- /task ---

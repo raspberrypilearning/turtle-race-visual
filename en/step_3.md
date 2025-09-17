@@ -2,7 +2,7 @@
 
 --- task ---
 
-Send the turtle to the top of the screen and speed it all up
+Move the pen to the top left and make it draw fast.
 
 --- code ---
 ---
@@ -21,7 +21,7 @@ speed(10)
 
 --- task ---
 
-Write numbers from `0` to `11` across the top of the screen.
+Write numbers from `0` to `11` across the top.
 
 --- code ---
 ---
@@ -41,13 +41,13 @@ for step in range(12):
 
 --- task ---
 
-Change the number `12` to see how this changes the numbers that are drawn.
+Try changing the `12` to see what happens.
 
 --- /task ---
 
 --- task ---
 
-Draw lines beneath each of the numbers, to show the track
+Draw lines under each number to make lanes.
 
 --- code ---
 ---
@@ -72,4 +72,3 @@ for step in range(12):
 --- /task ---
 
 ![turtle track](images/turtle-track.png)
-

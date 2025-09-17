@@ -8,7 +8,7 @@ Open the [Turtle race starter](https://editor.raspberrypi.org/en/projects/turtle
 
 --- task ---
 
-Import `turtle` to draw in Python and `randint` so the turtles can race at different speeds.
+Import `turtle` to draw and `randint` so the turtles move at different speeds.
 
 --- code ---
 ---
@@ -26,8 +26,8 @@ from random import randint
 
 --- task ---
 
-Add the first turtle and move it to the start position. You can choose your own name and colour.
-  
+Make your first turtle. Pick a name and colour. Move it to the start.
+
 --- code ---
 ---
 language: python
@@ -50,13 +50,13 @@ ada.pendown()
 
 --- task ---
 
-Click on run to see the turtle on your screen.
+Click Run to see your turtle.
 
 --- /task ---
 
 --- task ---
 
-Copy and paste the code three times. Change the name and colour of each turtle. Change the starting `y` position of each turtle.
+Copy the code three times. Change the name, colour, and `y` position for each turtle.
 
 --- code ---
 ---
@@ -79,7 +79,6 @@ eve.shape('turtle')
 eve.penup()
 eve.goto(-160, 40)
 eve.pendown()
-
 
 kai = Turtle()
 kai.color('green')
