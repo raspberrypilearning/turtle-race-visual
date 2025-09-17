@@ -16,11 +16,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-- title: Race track
+- title: Add turtles
   completion:
   - engaged
-- title: 'Challenge: More lines'
-- title: Racing turtles
+- title: Add a track
+- title: Race the turtles
   completion:
   - internal
   - external

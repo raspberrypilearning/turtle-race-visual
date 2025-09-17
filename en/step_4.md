@@ -1,5 +1,18 @@
 ## Race the turtles
 
+--- no-print ---
+
+<!-- Video wrapper keeps 16:9 and full width -->
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
+<iframe
+    src="https://www.youtube.com/embed/zMn4hSSO9wU?si=oJ3s6RoEqEaOhbga"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen>
+</iframe>
+</div>
+
+--- /no-print ---
+
 --- task ---
 
 Make the first turtle move forward a random distance, 100 times.

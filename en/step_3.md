@@ -1,5 +1,18 @@
 ## Add a track
 
+--- no-print ---
+
+<!-- Video wrapper keeps 16:9 and full width -->
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
+<iframe
+    src="https://www.youtube.com/embed/kiKVQ2VMoD4?si=pzWbIuwFZ-VsegUu"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen>
+</iframe>
+</div>
+
+--- /no-print ---
+
 --- task ---
 
 Move the pen to the top left and make it draw fast.
@@ -59,14 +72,14 @@ line_highlights: 38-44
 ---
 for step in range(12):
    write(step, align='center')
-    right(90)
-    forward(10)
-    pendown()
-    forward(150)
-    penup()
-    backward(160)
-    left(90)
-    forward(20)
+   right(90)
+   forward(10)
+   pendown()
+   forward(150)
+   penup()
+   backward(160)
+   left(90)
+   forward(20)
 --- /code ---
 
 --- /task ---

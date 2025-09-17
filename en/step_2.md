@@ -1,4 +1,15 @@
-## Add your turtles
+## Add turtles
+
+--- no-print ---
+
+<!-- Video wrapper keeps 16:9 and full width -->
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
+<iframe
+    src="https://www.youtube.com/embed/biq_HIhK2ic?si=4Wl5z7CIA9aq8lJH"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen>
+</iframe>
+</div>
 
 --- task ---
 
@@ -47,12 +58,6 @@ ada.pendown()
 --- /task ---
 
 ![turtle](images/turtles-first.png)
-
---- task ---
-
-Click Run to see your turtle.
-
---- /task ---
 
 --- task ---
 
