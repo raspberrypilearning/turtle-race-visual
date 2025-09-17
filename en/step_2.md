@@ -46,6 +46,8 @@ ada.pendown()
 
 --- /task ---
 
+![turtle](images/turtles-first.png)
+
 --- task ---
 
 Click on run to see the turtle on your screen.
@@ -91,6 +93,6 @@ kai.pendown()
 
 --- task ---
 
-Click run to see the four turtles.
+![turtles](images/turtles-line.png)
 
 --- /task ---

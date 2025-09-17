@@ -2,7 +2,7 @@
 
 --- task ---
 
-Send the turtle to the top of the screen and speed it up
+Send the turtle to the top of the screen and speed it all up
 
 --- code ---
 ---
@@ -37,6 +37,8 @@ for step in range(12):
 --- /code ---
 --- /task ---
 
+![track numbers](images/turtle-numbers.png)
+
 --- task ---
 
 Change the number `12` to see how this changes the numbers that are drawn.
@@ -68,4 +70,6 @@ for step in range(12):
 --- /code ---
 
 --- /task ---
+
+![turtle track](images/turtle-track.png)
 

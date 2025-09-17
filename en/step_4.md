@@ -38,6 +38,8 @@ for turn in range(100):
 
 --- /task ---
 
+![turtle race](images/turtle-racing.png)
+
 --- task ---
 
 You can change the distance moved (`randint(1, 5)`) and the number of times moved (`range(100)`) to see what effect that has on the race.
