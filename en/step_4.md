@@ -72,4 +72,3 @@ Try changing the numbers in `randint(1, 5)` and `range(100)` to see what happens
 </div>
 
 --- /no-print ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=aeY_2SYOhetzn3De&amp;list=PLeumwG3_SvUsxO1RQdoeX29ak4qLvTMYd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
