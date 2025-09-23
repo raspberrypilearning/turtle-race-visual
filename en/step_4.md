@@ -5,7 +5,7 @@
 <!-- Video wrapper keeps 16:9 and full width -->
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
 <iframe
-    src="https://www.youtube.com/embed/zMn4hSSO9wU?si=oJ3s6RoEqEaOhbga"
+    src="https://www.youtube.com/embed/qQsifXAJpkg?si=jnDC2i_MetKcFqQk"
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen>
 </iframe>
@@ -53,7 +53,7 @@ for turn in range(100):
 
 --- /task ---
 
-![turtle race](images/turtle-racing.png)
+![turtles](images/turtles-race-6.png)
 
 --- task ---
 
@@ -66,7 +66,7 @@ Try changing the numbers in `randint(1, 5)` and `range(100)` to see what happens
 <!-- Video wrapper keeps 16:9 and full width -->
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
 <iframe
-    src="https://www.youtube.com/embed/videoseries?si=aeY_2SYOhetzn3De&amp;list=PLeumwG3_SvUsxO1RQdoeX29ak4qLvTMYd"
+    src="https://www.youtube.com/embed/videoseries?si=IFfvvmpmY1FSMrjg&amp;list=PLeumwG3_SvUtKeGtuZI6NEfPBoA50AC1L"
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen>
 </iframe>
