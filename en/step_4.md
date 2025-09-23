@@ -58,7 +58,7 @@ for turn in range(100):
 
 --- /task ---
 
-![turtles](images/turtles-race-6.png)
+![turtles](images/turtle-race-6.png)
 
 --- task ---
 

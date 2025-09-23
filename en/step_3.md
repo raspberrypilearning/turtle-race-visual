@@ -35,7 +35,7 @@ goto(-140, 140)
 speed(10)
 --- /code ---
 
-![turtles](images/turtles-race-3.png)
+![turtles](images/turtle-race-3.png)
 
 --- /task ---
 
@@ -57,7 +57,7 @@ for step in range(12):
 --- /code ---
 --- /task ---
 
-![turtles](images/turtles-race-4.png)
+![turtles](images/turtle-race-4.png)
 
 --- task ---
 
@@ -91,4 +91,4 @@ for step in range(12):
 
 --- /task ---
 
-![turtles](images/turtles-race-5.png)
+![turtles](images/turtle-race-5.png)

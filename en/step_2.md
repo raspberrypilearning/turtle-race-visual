@@ -63,7 +63,7 @@ ada.pendown()
 
 --- /task ---
 
-![turtles](images/turtles-race-1.png)
+![turtles](images/turtle-race-1.png)
 
 --- task ---
 
@@ -103,6 +103,6 @@ kai.pendown()
 
 --- task ---
 
-![turtles](images/turtles-race-2.png)
+![turtles](images/turtle-race-2.png)
 
 --- /task ---
