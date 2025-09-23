@@ -24,4 +24,6 @@ steps:
 - title: Race the turtles
   completion:
   - internal
+- title: Visual first
+  completion:
   - external

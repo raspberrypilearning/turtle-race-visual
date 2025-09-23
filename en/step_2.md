@@ -5,12 +5,16 @@
 <!-- Video wrapper keeps 16:9 and full width -->
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
 <iframe
-    src="https://www.youtube.com/embed/biq_HIhK2ic?si=4Wl5z7CIA9aq8lJH"
+    src="https://www.youtube.com/embed/3JcLzlECVAg?si=LKr97Gzb1QQCILJ8"
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen>
 </iframe>
 </div>
 
+<br>
+<div style="text-align: center; margin-top: 1em;">
+Play, pause, make. Follow the project on our [YouTube](4) playlist!
+</div>
 --- /no-print ---
 
 --- task ---
@@ -59,7 +63,7 @@ ada.pendown()
 
 --- /task ---
 
-![turtle](images/turtles-first.png)
+![turtles](images/turtle-race-1.png)
 
 --- task ---
 
@@ -99,6 +103,6 @@ kai.pendown()
 
 --- task ---
 
-![turtles](images/turtles-line.png)
+![turtles](images/turtle-race-2.png)
 
 --- /task ---

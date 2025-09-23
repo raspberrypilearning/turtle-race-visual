@@ -5,12 +5,17 @@
 <!-- Video wrapper keeps 16:9 and full width -->
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
 <iframe
-    src="https://www.youtube.com/embed/kiKVQ2VMoD4?si=pzWbIuwFZ-VsegUu"
+    src="https://www.youtube.com/embed/Mnaho5jdJSc?si=2RLQWZ26loCLYt8C"
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen>
 </iframe>
 </div>
 
+<br>
+
+<div style="text-align: center; margin-top: 1em;">
+Play, pause, make. Follow the project on our [YouTube](4) playlist!
+</div>
 --- /no-print ---
 
 --- task ---
@@ -29,6 +34,8 @@ penup()
 goto(-140, 140)
 speed(10)
 --- /code ---
+
+![turtles](images/turtle-race-3.png)
 
 --- /task ---
 
@@ -50,7 +57,7 @@ for step in range(12):
 --- /code ---
 --- /task ---
 
-![track numbers](images/turtle-numbers.png)
+![turtles](images/turtle-race-4.png)
 
 --- task ---
 
@@ -84,4 +91,4 @@ for step in range(12):
 
 --- /task ---
 
-![turtle track](images/turtle-track.png)
+![turtles](images/turtle-race-5.png)
