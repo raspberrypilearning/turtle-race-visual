@@ -12,6 +12,10 @@
 </div>
 
 <br>
+
+<div style="text-align: center; margin-top: 1em;">
+Play, pause, make. Follow the project on our [YouTube](4) playlist!
+</div>
 --- /no-print ---
 
 --- task ---
