@@ -4,7 +4,7 @@ Use `for` loops to draw a race track and create a racing turtle game.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Follow along the project on our [YouTube]([https://projects.raspberrypi.org/en/projects/sunset/10](https://projects.raspberrypi.org/en/projects/turtle-race-visual/4)) playlist!
+Follow along the project on our [YouTube](https://projects.raspberrypi.org/en/projects/turtle-race-visual/4) playlist!
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
