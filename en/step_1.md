@@ -9,5 +9,5 @@ Follow along the project on our [YouTube](https://projects.raspberrypi.org/en/pr
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Print our [visual-first](https://projects-static.raspberrypi.org/projects/turtle-race-visual/094b21e8558a9cd5c041cd9e857c401cee29573d/en/resources/turtle-race-visual.pdf){:target="_blank"} step-by-step guide!
+Print our [visual-first](https://projects-static.raspberrypi.org/projects/turtle-race-visual/6fafbf82491073b2e1234d5385f3169b909398c7/en/resources/turtle-race-visual.pdf){:target="_blank"} step-by-step guide!
 </p>
